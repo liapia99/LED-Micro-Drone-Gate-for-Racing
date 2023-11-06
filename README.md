@@ -5,3 +5,5 @@ I used Fusion360 to create the case for the circuit and power supplies for the A
 
 I soldered extra male-to-male jumper wires to the button to reach the top of the 3D box and connected female-to-male jumper wires to the LCD instead of having it in the breadboard.
 
+![IMG_0290](https://github.com/liapia99/LED-Micro-Drone-Gate-for-Racing/assets/98356859/67fa6450-ae1b-4b61-8437-fdefa55ff16b)
+![Drone Race Sensors](https://github.com/liapia99/LED-Micro-Drone-Gate-for-Racing/assets/98356859/7e8268e3-abaa-4e76-9d89-525ccde344ef)
